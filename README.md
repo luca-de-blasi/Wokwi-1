@@ -4,6 +4,8 @@ Santiago Sojka
 Danilo Diaz Melion
 Luciano Montenegro
 
+Curso y Comision: 6to 2da Av Com C
+
 Trabajo Practico 1
 Taller: CySdC
 
