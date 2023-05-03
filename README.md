@@ -2,6 +2,7 @@
 Alumnos: Luca De Blasi
 Santiago Sojka
 Danilo Diaz Melion
+Luciano Montenegro
 
 Trabajo Practico 1
 Taller: CySdC
