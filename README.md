@@ -6,4 +6,4 @@ Danilo Diaz Melion
 Trabajo Practico 1
 Taller: CySdC
 
-Link: https://wokwi.com/projects/357959003725467649
+Link: https://wokwi.com/projects/362388999323089921
